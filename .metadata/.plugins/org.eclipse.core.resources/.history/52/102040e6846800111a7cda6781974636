@@ -1,0 +1,3 @@
+spring.application.name=01-Spring-Practicals
+
+spring.datasource.url=jdbc:postgres:
